@@ -495,8 +495,6 @@ BRTV,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 广东网络广播电视,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 安徽卫视,http://8.210.232.168/php/migu.php?id=hzse
-
-关注下方公众号哦,#genre#
 CETV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -2291,7 +2289,6 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 浙江｜龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
-[码点小干货],#genre#
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡国际,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
