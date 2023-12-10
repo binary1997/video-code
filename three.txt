@@ -537,6 +537,7 @@ CGTN阿拉伯语,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240369_1/
 CGTN阿拉伯语,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240369_1/encoder/0/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN阿拉伯语,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240369_1/playlist.m3u8?CONTENTID=00000110240369_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+安徽地方台,#genre#
 安徽｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221230255/1.m3u8
 安徽｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/PLTV/1/224/3221230534/1.m3u8
 安徽｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230919/1.m3u8
@@ -601,6 +602,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 安徽｜六安综合,http://www.191919.xyz:8888/udp/238.1.78.144:7024
 安徽｜利辛新闻,https://live.fst1994.net/hls/lixinxw/index.m3u8
 安徽｜利辛新闻,https://live.fst1994.net/hls/lixinys/index.m3u8
+北京地方台,#genre#
 北京｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
 北京｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8?
 北京｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?
@@ -657,6 +659,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 北京｜IPTV淘娱乐,http://111.196.130.165:4022/udp/239.3.1.100:8001
 北京｜IPTV淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
 北京｜IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
+重庆地方台,#genre#
 重庆｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 重庆｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8?
 重庆｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001129/index.m3u8?
@@ -691,6 +694,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 重庆｜垫江综合,http://125.62.24.185:80/1.m3u8?zzhongqd
 重庆｜大足综合,http://218.201.85.71:3170/m3u8
 重庆｜万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8
+福建地方台,#genre#
 福建｜综合,http://angtv.cn/test/bestv.php?id=fjzhhd4m/4000000
 福建｜新闻,http://angtv.cn/test/bestv.php?id=fjxwhd8m/8000000
 福建｜电视剧,http://angtv.cn/test/bestv.php?id=fjdsjhd4m/4000000
@@ -715,6 +719,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 福建｜霞浦综合,http://218.106.152.196/lsdream/G7wCyZW/4000/live.m3u8?zfud
 福建｜龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
 福建｜龙岩综合,http://live.lytv.net.cn/zhpwd/hd/live.m3u8
+甘肃地方台,#genre#
 甘肃｜都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
 甘肃｜经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
 甘肃｜文化影视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
@@ -738,6 +743,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 甘肃｜崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 甘肃｜陇西,http://play.kankanlive.com/live/1669881644081970.flv
 甘肃｜陇西,http://play.kankanlive.com/live/1669881644081970.m3u8
+广东地方台,#genre#
 广东｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
 广东｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8?
 广东｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?
@@ -885,6 +891,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 广东｜岭南戏曲,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1460_4500
 广东｜廉江综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=3209
 广东｜茂名文化生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=3013_4500
+广西地方台,#genre#
 广西｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8?
 广西｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001224/index.m3u8?
 广西｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230953/1.m3u8
@@ -933,6 +940,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 广西｜柳州新闻,http://www.51nas.top:4022/rtp/239.81.0.175:4056
 广西｜柳州新闻,http://www.51nas.top:4022/udp/239.81.0.175:4056
 广西｜罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+贵州地方台,#genre#
 贵州｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225974/index.m3u8
 贵州｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8?
 贵州｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001184/index.m3u8?
@@ -973,6 +981,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 贵州｜遵义公共,http://39.136.18.68/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226320/1/index.m3u8?fmt=ts2hls
 贵州｜遵义公共,http://39.136.18.68/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226028/1/index.m3u8?fmt=ts2hls
 贵州｜松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
+海南地方台,#genre#
 海南｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
 海南｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8?
 海南｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001183/index.m3u8?
@@ -1025,6 +1034,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 海南｜自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?
 海南｜自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?
 海南｜自贸,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
+河北地方台,#genre#
 河北｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225961/index.m3u8
 河北｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8?
 河北｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001229/index.m3u8?
@@ -1085,6 +1095,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 河北｜鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 河北｜鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8
 河北｜鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+河南地方台,#genre#
 河南｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
 河南｜卫视,http://[2409:8087:1e03:21::11]:6610/cms001/ch00000090990000001222/index.m3u8?
 河南｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8?
@@ -1192,6 +1203,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 河南｜鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 河南｜项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 河南｜鹿邑新闻频道,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8?zhend
+湖北地方台,#genre#
 湖北｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
 湖北｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8?
 湖北｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001027/index.m3u8?
@@ -1239,6 +1251,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 湖北｜鄂州新闻,http://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1704038399-0-0-f97391c85e7bf53b885ed7d63cf722c0
 湖北｜鹤峰综合,http://hefeng-live21.cjyun.org/10100/s10100-hftv1.m3u8?auth_key=1704038399-0-0-73faaff5056f4c2f3eaa37886ba5a32d
 湖北｜十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+湖南地方台,#genre#
 湖南｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8?
 湖南｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
 湖南｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230620/1.m3u8
@@ -1298,6 +1311,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 湖南｜道县,http://175.13.226.175:8888/udp/239.76.255.28:9000
 湖南｜浏阳新闻,https://liveplay-srs.voc.com.cn/hls/tv/131_acfb72.m3u8
 湖南｜浏阳新闻,https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
+黑龙江地方台,#genre#
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230622/1.m3u8
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230622/1.m3u8
 黑龙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221229874/1.m3u8
@@ -1347,12 +1361,14 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 黑龙江｜齐齐哈尔新闻综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 黑龙江｜双鸭山公共,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
 黑龙江｜双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
+吉林地方台,#genre#
 吉林｜延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
 吉林｜延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 吉林｜延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 吉林｜延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 吉林｜通化县综合,http://stream5.jlntv.cn/thx/sd/live.m3u8
 吉林｜龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8
+江苏地方台,#genre#
 江苏｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230573/1.m3u8
 江苏｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230915/1.m3u8
 江苏｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230573/1.m3u8
@@ -1456,6 +1472,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 江苏｜镇江3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2461344193_395316009/ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
 江苏｜靖江新闻综合,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 江苏｜靖江电视,http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
+江西地方台,#genre#
 江西｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8
 江西｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8?
 江西｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001034/index.m3u8?
@@ -1509,6 +1526,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 江西｜赣州教育,http://wb.jxgztv.com/live/gztv3.flv
 江西｜赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
 江西｜都昌综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_duchang.m3u8
+辽宁地方台,#genre#
 辽宁｜经济,http://218.25.44.2:8899/hls/39/index.m3u8
 辽宁｜公共,http://218.25.44.2:8899/hls/40/index.m3u8
 辽宁｜都市,http://218.25.44.2:8899/hls/47/index.m3u8
@@ -1522,6 +1540,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 辽宁｜大连新闻,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
 辽宁｜大连新闻,http://live.cooltv.top/tv/cutv.php?id=dlxwzh
 辽宁｜大连新闻,http://live.cooltv.top/tv/tide.php?id=dlzh
+内蒙古地方台,#genre#
 内蒙古｜卫视,http://1.183.178.135:8097/udp/239.29.0.2:5000
 内蒙古｜卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 内蒙古｜卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
@@ -1572,6 +1591,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 内蒙古｜巴彦淖尔影视娱乐,http://mmitv.top/test/tianma.php?id=bynrys
 内蒙古｜额济纳,http://1.183.178.135:8097/udp/239.29.0.177:5000
 内蒙古｜可克达拉综合,http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8
+宁夏地方台,#genre#
 宁夏｜卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 宁夏｜卫视,https://hls.ningxiahuangheyun.com/tv/nxws.flv
 宁夏｜公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&amp;txTime=6235C9B6
@@ -1589,6 +1609,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 宁夏｜银川公共,http://play-a2.quklive.com/live/1667883943560053.m3u8
 宁夏｜银川生活,http://play-a2.quklive.com/live/1667883987087179.m3u8
 宁夏｜银川文体,http://play-a2.quklive.com/live/1667884025738071.m3u8
+青海地方台,#genre#
 青海｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw348498084_-2063977587/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1674380463&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 青海｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/PLTV/1/224/3221230493/1.m3u8
 青海｜卫视,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227554/1.m3u8
@@ -1611,6 +1632,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 青海｜民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
 青海｜西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 青海｜西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+山东地方台,#genre#
 山东｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230626/1.m3u8
 山东｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230626/1.m3u8
 山东｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221230495/1.m3u8
@@ -1672,6 +1694,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 山东｜济宁综合,http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8?shandd
 山东｜济宁教育,http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8?shandd
 山东｜济宁公共,http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8?shandd
+山西地方台,#genre#
 山西｜卫视,http://0b4e127539ff8c3fb7398ab07b004ec1.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d42b970a64d118569044ca5e8a86a375
 山西｜卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 山西｜卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
@@ -1729,6 +1752,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 山西｜长子综合,http://zzlive.zzc-media.com:8092/live/xwzh.m3u8?zshanxd
 山西｜黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
 山西｜黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?zshanxd
+陕西地方台,#genre#
 陕西｜卫视,http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
 陕西｜卫视,http://221.213.43.82:8888/newlive/live/hls/41/live.m3u8
 陕西｜卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1452_4500
@@ -1758,6 +1782,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 陕西｜保山一套,http://liveynbsdst.chinamcache.com/live/zb01.m3u8?auth_key=1645240615-0-0-65e16b6e5bf26ac5538ac471eff58b55
 陕西｜保山二套,http://liveynbsdst.chinamcache.com/live/zb02.m3u8?auth_key=1645240679-0-0-d67bc97395c69c4381264c996315a24b
 陕西｜咸阳,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+四川地方台,#genre#
 四川｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
 四川｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8?
 四川｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001130/index.m3u8?
@@ -1910,6 +1935,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 四川｜马边综合,http://159.75.85.63:5681/sxg.php?id=mbxwzh_2000
 四川｜马边综合,http://live.goodiptv.club/api/sxg.php?id=mbxwzh_2000
 四川｜黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
+深圳地方台,#genre#
 深圳｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230637/1.m3u8
 深圳｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230637/1.m3u8
 深圳｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/PLTV/1/224/3221229876/1.m3u8
@@ -1958,6 +1984,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 深圳｜龙岗,http://113.65.66.158:10000/rtp/239.77.1.223:5146
 深圳｜龙岗,http://lglivepull.sznews.com/showto_live/2647.m3u8
 深圳｜龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
+上海地方台,#genre#
 上海｜体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 上海｜外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 上海｜外语,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8?
@@ -2020,6 +2047,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 上海｜崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 上海｜嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 上海｜金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
+天津地方台,#genre#
 天津｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
 天津｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8?
 天津｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001036/index.m3u8?
@@ -2046,12 +2074,14 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 天津｜滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 天津｜滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 天津｜滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
+西藏地方台,#genre#
 西藏｜卫视,http://lu1.cc/c/tv/xztv/xzxl.php?id=xzws
 西藏｜卫视,http://zgntv.icu/live/xztv.php?id=0
 西藏｜藏语,http://lu1.cc/c/tv/xztv/xzxl.php?id=xzzyws
 西藏｜藏语,http://zgntv.icu/live/xztv.php?id=1
 西藏｜影视,http://www.lu1.cc/c/tv/xztv/xzxl.php?id=xzyswh&fmt=hls
 西藏｜影视,http://zgntv.icu/live/xztv.php?id=2
+新疆地方台,#genre#
 新疆｜伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
 新疆｜伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 新疆｜伊犁汉语综合,http://110.153.180.106:55555/out_1/index.m3u8
@@ -2086,6 +2116,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 新疆｜石河子经济生活,http://124.88.144.73:1935/live/dywt/playlist.m3u8
 新疆｜裕民哈语,http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
 新疆｜裕民汉语,http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
+云南地方台,#genre#
 云南｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8?
 云南｜卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 云南｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221229933/1.m3u8
@@ -2145,6 +2176,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 云南｜麻栗坡,https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
 云南｜麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
 云南｜麻栗坡,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
+浙江地方台,#genre#
 浙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221229802/1.m3u8
 浙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230618/1.m3u8
 浙江｜卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230618/1.m3u8
@@ -2387,6 +2419,7 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 明珠台,http://103.45.68.47/gy/gy563/xsj.php?id=pearl
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+翡翠台,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,https://tvp22.sky4k.top/index1.php
