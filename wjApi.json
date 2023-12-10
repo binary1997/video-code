@@ -1394,14 +1394,14 @@
             "filterable": 1,
             "jar": "https://gitee.com/gagakuai/tvbox/raw/master/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
             "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/xiaopin.json"
-        },
+        }
        
     ],
     "lives": [
         {
             "name": "电视直播",
             "type": 0,
-            "url": "http://fanqie.gq/a/1701859592.txt",
+            "url": "./three.txt",
             "playerType": 1,
           
         }
