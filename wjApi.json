@@ -1401,10 +1401,9 @@
         {
             "name": "电视直播",
             "type": 0,
-            "url": "./three.txt",
+            "url": "http://fanqie.gq/a/1701859592.txt",
             "playerType": 1,
-            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
+          
         }
     ],
     "rules": [
