@@ -12,7 +12,7 @@
         },
         {
             "key": "csp_非凡资源",
-            "name": "影视软件合集:Q群『62013885』",
+            "name": "",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
             "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -1395,21 +1395,13 @@
             "jar": "https://gitee.com/gagakuai/tvbox/raw/master/lib/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
             "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/xiaopin.json"
         },
-        {
-            "key": "提示",
-            "name": "公众号：码点小干货",
-            "type": 3,
-            "api": "360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }
+       
     ],
     "lives": [
         {
             "name": "tvlive",
             "type": 0,
-            "url": "https://gitee.com/gagakuai/tvbox/raw/master/lib/three",
+            "url": "https://binary1997.github.io/video-code/three.txt",
             "playerType": 1
         }
     ],
