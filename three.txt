@@ -767,9 +767,13 @@ CGTN阿拉伯语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ2208
 广东｜卫视,http://113.100.72.131:8899/udp/239.77.0.84:5146
 广东｜卫视,http://113.100.72.131:8899/udp/239.77.0.166:5146
 广东｜大湾区卫视,http://113.100.72.131:8899/udp/239.77.0.215:5146
-广东｜珠江,http://113.100.72.131:8899/udp/239.77.0.1:5146
-广东｜珠江,http://113.100.72.131:8899/udp/239.77.0.114:5146
+广东｜珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+广东｜珠江,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
 广东｜新闻,http://113.100.72.131:8899/udp/239.77.0.173:5146
+广东｜新闻,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdxw&auth=rinimabi
+广东｜新闻,http://ct.whosayssowhat.top:4022/udp/239.77.0.173:5146
+广东｜新闻,http://113.117.74.17:808/hls/28/index.m3u8
+广东｜民生,https://live.goodiptv.club/api/itouch.php?id=1185
 广东｜民生,http://113.100.72.131:8899/udp/239.77.0.225:5146
 广东｜体育,http://113.100.72.131:8899/udp/239.77.0.112:5146
 广东｜体育,http://113.100.72.131:8899/udp/239.77.0.168:5146
