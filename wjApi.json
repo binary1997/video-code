@@ -1,15 +1,6 @@
 {
     "sites": [
-        {
-            "key": "wj",
-            "name": "接口不断的更新",
-            "type": 3,
-            "api": "https://gitee.com/gagakuai/tvbox/raw/master/lib/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/douban.js"
-        },
+       
         {
             "key": "csp_非凡资源",
             "name": "非凡资源",
